@@ -1,0 +1,182 @@
+[
+    {
+        "_id": "64b83de4417ff8bd288089f7",
+        "itemName": "Jersey",
+        "itemColour": "success-subtle",
+        "house": "che",
+        "total": 2,
+        "stePet": 3,
+        "che": -1
+    },
+    {
+        "_id": "64b83de4417ff8bd288089f5",
+        "itemName": "Tracksuit top",
+        "itemColour": "info-subtle",
+        "house": "che",
+        "total": 4,
+        "stePet": 4,
+        "che": 0
+    },
+    {
+        "_id": "64b83de4417ff8bd28808a05",
+        "itemName": "White takkies",
+        "itemColour": "warning-subtle",
+        "house": "che",
+        "total": 1,
+        "stePet": 2,
+        "che": -1
+    },
+    {
+        "_id": "64b83de4417ff8bd28808a08",
+        "itemName": "Swimming cap",
+        "itemColour": "danger-subtle",
+        "house": "che",
+        "total": 2,
+        "stePet": 0,
+        "che": 1
+    },
+    {
+        "_id": "64b83de4417ff8bd288089f8",
+        "itemName": "Trousers",
+        "itemColour": "primary-subtle",
+        "house": "che",
+        "total": 3,
+        "stePet": 1,
+        "che": 2
+    },
+    {
+        "_id": "64b83de4417ff8bd288089fb",
+        "itemName": "Short sleeve shirts",
+        "itemColour": "secondary-subtle",
+        "house": "che",
+        "total": 6,
+        "stePet": 3,
+        "che": 3
+    },
+    {
+        "_id": "64b83de4417ff8bd288089fc",
+        "itemName": "Skorts",
+        "itemColour": "light-subtle",
+        "house": "che",
+        "total": 2,
+        "stePet": 0,
+        "che": 2
+    },
+    {
+        "_id": "64b83de4417ff8bd28808a03",
+        "itemName": "Gym shorts",
+        "itemColour": "dark-subtle",
+        "house": "che",
+        "total": 5,
+        "stePet": 4,
+        "che": 1
+    },
+    {
+        "_id": "64b83de4417ff8bd28808a06",
+        "itemName": "Swimming costume",
+        "itemColour": "success-subtle",
+        "house": "che",
+        "total": 3,
+        "stePet": 1,
+        "che": 2
+    },
+    {
+        "_id": "64b83de4417ff8bd28808a07",
+        "itemName": "Swimming towel",
+        "itemColour": "info-subtle",
+        "house": "che",
+        "total": 3,
+        "stePet": 1,
+        "che": 2
+    },
+    {
+        "_id": "64b83de4417ff8bd288089f9",
+        "itemName": "Winter dress",
+        "itemColour": "warning-subtle",
+        "house": "che",
+        "total": 2,
+        "stePet": 1,
+        "che": 1
+    },
+    {
+        "_id": "64b83de4417ff8bd288089fa",
+        "itemName": "Long sleeve shirts",
+        "itemColour": "danger-subtle",
+        "house": "che",
+        "total": 2,
+        "stePet": 1,
+        "che": 1
+    },
+    {
+        "_id": "64b83de4417ff8bd28808a02",
+        "itemName": "Hockey socks",
+        "itemColour": "primary-subtle",
+        "house": "che",
+        "total": 2,
+        "stePet": 1,
+        "che": 1
+    },
+    {
+        "_id": "64b83de4417ff8bd28808a04",
+        "itemName": "Gym tops",
+        "itemColour": "secondary-subtle",
+        "house": "che",
+        "total": 5,
+        "stePet": 5,
+        "che": 0
+    },
+    {
+        "_id": "64b83de4417ff8bd28808a09",
+        "itemName": "Swimming goggles",
+        "itemColour": "light-subtle",
+        "house": "che",
+        "total": 1,
+        "stePet": 0,
+        "che": 0
+    },
+    {
+        "_id": "64b83de4417ff8bd288089f6",
+        "itemName": "Tracksuit pants",
+        "itemColour": "dark-subtle",
+        "house": "che",
+        "total": 3,
+        "stePet": 3,
+        "che": 0
+    },
+    {
+        "_id": "64b83de4417ff8bd288089fd",
+        "itemName": "Blazer",
+        "itemColour": "success-subtle",
+        "house": "che",
+        "total": 1,
+        "stePet": 2,
+        "che": -1
+    },
+    {
+        "_id": "64b83de4417ff8bd288089fe",
+        "itemName": "School shoes",
+        "itemColour": "info-subtle",
+        "house": "che",
+        "total": 1,
+        "stePet": 2,
+        "che": -1
+    },
+    {
+        "_id": "64b83de4417ff8bd288089ff",
+        "itemName": "Rain coat",
+        "itemColour": "warning-subtle",
+        "house": "che",
+        "total": 1,
+        "stePet": 1,
+        "che": 0
+    },
+    {
+        "_id": "64b83de4417ff8bd28808a00",
+        "itemName": "Scarf",
+        "itemColour": "danger-subtle",
+        "house": "che",
+        "total": 1,
+        "stePet": 1,
+        "che": 0
+    }
+]
