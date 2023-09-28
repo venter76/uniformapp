@@ -106,7 +106,9 @@
         <p class="text-center text-white" style="font-size: 12px;">(Select the uniform name to move)</h9>
          
         </div>
-      
+        <div class="col-md-2 col-2 d-flex align-items-center justify-content-end">
+          <button id="startAgain">Start</button>
+    </div>
     </div>
     <br>
 
@@ -117,10 +119,12 @@
 
 <div class="row">
   <% itemNames.forEach(function(itemName, index) { %>
-  <div class="col-md-8 col-9">
+  <div class="col-md-12 col-12">
       <div class="p-3 mb-2 text-black rounded-pill pill-box bg-<%= itemColours[index] %>">
           <div class="pill-box-content text-center">
-              <a class="myLink" href="/detail?itemName=<%= encodeURIComponent(itemName) %>"><%= itemName %></a>
+            <a class="myLink" style="font-size: 30px;" href="/detail?itemName=<%= encodeURIComponent(itemName) %>"><%= itemName %></a>
+
+              <!-- <a class="myLink" href="/detail?itemName=<%= encodeURIComponent(itemName) %>"><%= itemName %></a> -->
           </div>
       </div>
   </div>
@@ -143,6 +147,14 @@
 
   
   setInterval(reloadHomePage, 45000);
+</script>
+
+<script>
+document.getElementById("startAgain").addEventListener("click", function() {
+    window.location.href = "/";
+});
+
+
 </script>
 
     <script src="index.js"></script>
